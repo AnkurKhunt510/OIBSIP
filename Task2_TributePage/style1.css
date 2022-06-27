@@ -1,0 +1,24 @@
+*{
+    text-align: center;
+}
+.row{
+    background-color: gainsboro;
+}
+.col-lg-3{
+    display: inline-block;
+    width: 25%;
+    margin: 30px;
+    padding: 5px;
+}
+.col-lg-3:hover{
+    box-shadow: 5px 5px 5px 5px;
+}
+img{
+    height: 300px;
+}
+img:hover{
+    box-shadow: 5px 5px 5px  white;
+}
+.quotes{
+    font-family: 'Times New Roman', Times, serif
+}
